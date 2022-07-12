@@ -14,6 +14,5 @@ import java.util.ArrayList;
 public class DemoObject {
   private String name;
   private String demo;
-
   }
 
